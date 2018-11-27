@@ -10,5 +10,7 @@ To use it, simply:
 
 The JLINK virtual drive will then briefly disappear as the reprogramming happens.  When it re-appears, you're done.  You can then connect to your nRF52840-DK using a serial terminal (115200 baud) as you normally would, and you will be greeted by the mecrisp-starellis FORTH welcome and prompt.
 
+For all the credits and attributions, please see http://mecrisp.sourceforge.net/ and the discussion: https://sourceforge.net/p/mecrisp/discussion/general/thread/6fe04a2841/
+
 Enjoy!
 
