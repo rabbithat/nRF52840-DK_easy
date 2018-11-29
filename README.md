@@ -14,3 +14,6 @@ For all the credits and attributions, please see http://mecrisp.sourceforge.net/
 
 Enjoy!
 
+Update 2018-11-29: Run the program enable_nRF52840DK_reset_button.fs once to enable the reset button on the nRF52840-DK.  Change is 
+made in non-volatile memory and will persist unless the nRF52840-DK is later bulk erased.
+
