@@ -24,3 +24,5 @@ essential functions,
 delay functions,
 uploader,
 programmer.
+
+Complete.hex is the same as clone.hex, but including the cloning software and 'clone" word.
