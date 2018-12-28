@@ -28,3 +28,5 @@ programmer.
 Complete.hex is the same as clone.hex, but including the cloning software and 'clone" word.
 
 ultra.hex is the same as complete.hex plus the radio REPL.
+
+supreme.hex is ultra.hex plus code for setting the reset pin.
