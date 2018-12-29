@@ -16,7 +16,7 @@ Enjoy!
 
 Update 2018-12-11: Use the code located here: https://github.com/rabbithat/nRF52840_enable_reset_pin to enable the reset button on the nRF52840-DK.
 
-Note: mecrisp-stellaris-nRF52840DK-RA.hex is mecrisp-stellaris 2.4.7
+Note: mecrisp-stellaris-nRF52840DK-RA.hex is mecrisp-stellaris 2.4.7 RA
 
 
 File clone.hex is mecrisp-stellaris 2.4.7 RA together with the following files already pre-loaded into flash:
